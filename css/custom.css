@@ -41,7 +41,7 @@ h6 {
 .promo a:hover,
 .promo a:active {
     color: white;
-	text-shadow: 1px 1px 8px black;
+	/*text-shadow: 1px 1px 8px black;*/
     text-decoration: none;
 }
 

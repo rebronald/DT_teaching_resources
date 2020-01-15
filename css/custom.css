@@ -40,7 +40,7 @@ h6 {
 .promo a:visited,
 .promo a:hover,
 .promo a:active {
-    color: white;
+    color: rgb(202, 25, 238);
 	/*text-shadow: 1px 1px 8px black;*/
     text-decoration: none;
 }
